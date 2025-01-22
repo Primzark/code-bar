@@ -1,0 +1,17 @@
+{
+  "name": "codebar-numb",
+  "version": "1.0.0",
+  "description": "website ",
+  "main": "index.js",
+  "scripts": {
+    "test": "yes"
+  },
+  "keywords": [
+    "code"
+  ],
+  "author": "nico",
+  "license": "ISC",
+  "dependencies": {
+    "bootstrap": "^5.3.3"
+  }
+}
