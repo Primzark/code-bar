@@ -1,0 +1,11 @@
+.image {
+    object-fit: cover;
+    height: 12.5rem;
+    border-radius: 0.6rem;
+}
+
+.logo {
+    object-fit: cover;
+height: 6.25rem;
+}
+
